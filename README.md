@@ -23,7 +23,7 @@ Please start the simulation and change the values as Knob.
 The simulation parameters will be changed according to the power command value and load power consumption.
 
 ## 2. Model Reference / with System Composer
-<img src="/uploads/307be6a54ebbeed1376400e15705b2fc/Snag_1e355e10.png" width=50%>  
+<img src="/uploads/307be6a54ebbeed1376400e15705b2fc/Snag_1e355e10.png" width=40%>
 <img src="/uploads/f51271c9de42a428ea37562499796962/Snag_1e3567f4.png" width=50%>  
 
 The dashboard is not available in Model Reference.
