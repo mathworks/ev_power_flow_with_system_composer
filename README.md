@@ -13,7 +13,7 @@ The aim of this project is to show the customer the comparison of these modeling
 
 In the style using System Composer, only the communication lines between the control unit and the hardware unit, i.e. the interface design, can be designed without depending on each Simulink model, and the greatest point is that the results can be reflected in each Simulink model.
 
-#How to Use the Model
+# How to Use the Model
 1. Single model
 The top model has Knob built in the dashboard.
 Please start the simulation and change the values as Knob.
