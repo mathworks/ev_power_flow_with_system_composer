@@ -16,7 +16,7 @@ In the style using System Composer, only the communication lines between the con
 
 # How to Use the Model
 ## 1. Single model
-
+![Single model(/uploads/5dfb4732f850da410f45ca9a3cb97c67/Snag_1e3316ff.png)
 The top model has Knob built in the dashboard.
 Please start the simulation and change the values as Knob.
 The simulation parameters will be changed according to the power command value and load power consumption.
