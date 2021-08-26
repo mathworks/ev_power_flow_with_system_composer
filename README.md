@@ -12,7 +12,7 @@ In this project, three modeling styles are used to describe the power flow model
 3.with System Composer
 The aim of this project is to show the customer the comparison of these modeling styles.
 
-In the style using System Composer, only the communication lines between the control unit and the hardware unit, i.e. the interface design, can be designed without depending on each Simulink model, and the greatest point is that the results can be reflected in each Simulink model.
+In the style using System Composer, only the communication lines between the control unit and the hardware unit, that is the interface design, can be designed without depending on each Simulink model, and the greatest point is that the results can be reflected in each Simulink model.
 
 # How to Use the Model
 ## 1. Single model
