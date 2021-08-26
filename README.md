@@ -3,6 +3,7 @@
 This model is based on Simscape Electrical modeling of the power flow in an EV.
 In this project, three modeling styles are used to describe the power flow model.
 Single model/Model reference/System Composer
+This model is very simple and should be able to be used for validation of requirement specifications and system configuration.
 
 # The aim of this Demo model
 In this project, three modeling styles are used to describe the power flow model.
