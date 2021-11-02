@@ -29,3 +29,10 @@ The simulation parameters will be changed according to the power command value a
 The dashboard is not available in Model Reference.
 Therefore, load the .m file saved in the InputSignalData folder to manipulate the power command value and load power consumption.
 Press the Simulation Run button to start the simulation according to the input signal defined in ImputSignal.
+
+# Contact
+Please Contact me if you have any questions about this Model.
+Thank you!
+
+Yuki Kamtani Apprication Engineer @ MatnWorks Japan
+ykamatan@mathworks.com
