@@ -1,7 +1,6 @@
 # Copyright
 Copyright 2021 - 2022 The MathWorks, Inc.
 
-
 # EVPowerSystemModel
 This model is based on Simscape Electrical modeling of the power flow in an EV.
 In this project, three modeling styles are used to describe the power flow model.
