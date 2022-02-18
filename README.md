@@ -32,7 +32,7 @@ System Composerを用いたスタイルでは、各Simulinkモデルに依存す
 
 # How to Use the Model
 ## 1. Single model
-<img src="/uploads/5dfb4732f850da410f45ca9a3cb97c67/Snag_1e3316ff.png" width=50%>  
+<img src="https://user-images.githubusercontent.com/62166747/154601103-a57455f9-3aef-4d39-ad1f-54f4413b678e.png" width=50%>  
 
 The top model has Knob built in the dashboard.
 Please start the simulation and change the values as Knob.
@@ -43,8 +43,7 @@ The simulation parameters will be changed according to the power command value a
 シミュレーションのパラメータは、電力指令値や負荷の消費電力に応じて変更されます。
 
 ## 2. Model Reference / with System Composer
-<img src="/uploads/307be6a54ebbeed1376400e15705b2fc/Snag_1e355e10.png" width=40%>
-<img src="/uploads/f51271c9de42a428ea37562499796962/Snag_1e3567f4.png" width=50%>  
+<img src="https://user-images.githubusercontent.com/62166747/154601115-877ced52-d82c-4789-a117-a5b7a170ed99.png" width=50%>  
 
 The dashboard is not available in Model Reference.
 Therefore, load the .m file saved in the InputSignalData folder to manipulate the power command value and load power consumption.
