@@ -61,11 +61,5 @@ Simscape&trade;/
 Simscape Electrical&trade;/
 DSP System Toolboxes&trade;
 
-# Recomend Toolbox
-Control System Toolbox&trade; 
-
-モデルの伝達関数を表示するのに必要です。
-SycnADC_WithFBParam.mの13行目以降をコメントアウトすればこのToolboxがなくてもモデルは動作します。
-
 It is needed to display the transfer function of the model.
 If you comment out line 13 onwards of SycnADC_WithFBParam.m The model will work without this Toolbox.
